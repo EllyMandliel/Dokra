@@ -1,7 +1,7 @@
 # Dokra
 _Note_: We're currently still in Alpha phases, and invite you to contribute to Dokra!
 
-###Take Type-Annotations To The Edge
+### Take Type-Annotations To The Edge
 A new syntax candy for you pythonista! 
 
 Dokra allows using type hinting for middleware injection!
