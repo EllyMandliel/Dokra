@@ -7,7 +7,7 @@ A new syntax candy for you pythonista!
 Dokra allows using type hinting for middleware injection!
 ### How does it work?
 Use type annotations to declare what functions will be executed __before__ the function on the parameters.
-Use return type annotation to declare pipe-out function. 
+Use return type annotation to declare pipe-out function that will run with the function's result as a single parameter. 
 ```python
 from Dokra import Dokra
 d = Dokra()
