@@ -9,6 +9,7 @@ setup(
     author='Dirat Yokra',  # Type in your name
     author_email='ellykido@gmail.com',  # Type in your E-Mail
     url='https://github.com/EllyMandliel/Dokra',  # Provide either the link to your github or to your website
+    download_url='https://github.com/EllyMandliel/Dokra/archive/0.1.tar.gz',
     keywords=['Annotations', 'hint', 'type', 'python', 'dokra'],  # Keywords that define your package best
     classifiers=[
         'Development Status :: 3 - Alpha',

@@ -1,7 +1,9 @@
 # Dokra
 _Note_: We're currently still in Alpha phases, and invite you to contribute to Dokra!
 ###Take Type-Annotations To The Edge
-A new syntax candy for you pythonista! Dokra allows using type hinting for useful shortcuts.
+A new syntax candy for you pythonista! 
+
+Dokra allows using type hinting for middleware injection!
 ### How does it work?
 Use type annotations to declare what functions will be executed __before__ the function on the parameters.
 Use return type annotation to declare pipe-out function. 

@@ -4,3 +4,6 @@ venv/*
 .idea/*
 Dokra/__pycache__
 Dokra/__pycache__/*
+dist
+dist/*
+MANIFEST
