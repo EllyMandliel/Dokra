@@ -1,12 +1,12 @@
 # Dokra
-_Note_: We're currently still in beta-phases
+_Note_: We're currently still in Alpha phases, and invite you to contribute to Dokra!
 ###Take Type-Annotations To The Edge
 A new syntax candy for you pythonista! Dokra allows using type hinting for useful shortcuts.
 ### How does it work?
 Use type annotations to declare what functions will be executed __before__ the function on the parameters.
 Use return type annotation to declare pipe-out function. 
 ```python
-from dokra import Dokra
+from Dokra import Dokra
 d = Dokra()
 
 def middleware(input_val):
@@ -17,6 +17,9 @@ def my_func(value: d[middleware]) -> d[print]:
     return value + 1
 ```
 ### Installation
+This requires Python3.6+
+
+
 Install using pip:
 ```
 pip install dokra

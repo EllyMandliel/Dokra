@@ -1,5 +1,5 @@
-from dokra.utils import identity
-from dokra.wrapper import WrappedFunction, FunctionWrapper
+from Dokra.utils import identity
+from Dokra.wrapper import WrappedFunction, FunctionWrapper
 
 
 class Dokra:

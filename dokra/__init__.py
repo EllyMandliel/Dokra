@@ -1,1 +1,1 @@
-from dokra.dokra import Dokra
+from Dokra.dokra import Dokra
