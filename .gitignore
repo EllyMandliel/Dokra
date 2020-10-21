@@ -1,0 +1,6 @@
+venv
+venv/*
+.idea
+.idea/*
+dokra/__pycache__
+dokra/__pycache__/*
