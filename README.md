@@ -1,5 +1,5 @@
 # Dokra
-_Note_: We're currently still in Alpha phases, and invite you to contribute to Dokra!
+_Note_: This project is currently unstable.
 
 ### Take Type-Annotations To The Edge
 A new syntax candy for you pythonista! 
